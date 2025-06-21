@@ -1,6 +1,2 @@
-git init
-git remote add origin https://github.com/jonr232/macro-tracker.git
-git pull origin main  # syncs with the GitHub README
-git add .
-git commit -m "Initial commit"
-git push origin main
+streamlit
+pandas
